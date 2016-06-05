@@ -1,7 +1,5 @@
 #include <stdio.h>
-#include <ctype.h>
 #include <string.h>
-#include <stdlib.h>
 
 #define OK 0
 #define MAX_CHAR 1000
