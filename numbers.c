@@ -111,9 +111,9 @@ char * translate_number(int x){
 	/*single digit numbers in english*/
 	char *single_digit_number[]={"zero", "one","two", "three", "four", "five", "six", "seven", "eight", "nine", "ten"};
 	/*number in english when the second digit of a number is zero*/
-	char *second_digit_is_zero[]={"0","", "twenty ", "thirty ", "fourty ", "fifty ", "sixty ", "sevnety ", "eighty ", "ninty "};
+	char *second_digit_is_zero[]={"0","", "twenty ", "thirty ", "forty ", "fifty ", "sixty ", "safety ", "eighty ", "ninety "};
 	/*the number in english when the first digit is one*/
-	char *first_digit_is_one[]={"ten","eleven","twelve","thirteen","fourteen","fifteen","sixteen","seventeen","eighteen","ninteen","twenty"};
+	char *first_digit_is_one[]={"ten","eleven","twelve","thirteen","fourteen","fifteen","sixteen","seventeen","eighteen","nineteen",""};
 	ptr = output_string;
 
 
