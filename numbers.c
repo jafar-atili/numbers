@@ -4,7 +4,6 @@
 #include <stdlib.h>
 
 #define OK 0
-#define MAX_LINE 1000
 #define MAX_CHAR 1000
 
 
